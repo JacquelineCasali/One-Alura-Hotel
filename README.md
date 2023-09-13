@@ -1,19 +1,18 @@
 # Challenge One
-
-![badge](src/images/aH-150px.png)
-
-![Video_hotel](./Video_hotel.gif)
-
 ## Hotel Alura 
 > Bem-vindos este é um projeto  de um sitema de Hotel em Java
 
+![Video_hotel](./Video_hotel.gif)
+
+
+
 ## Tecnologias Utilizadas::
--- 'Java'
--- Eclipse
--- MySql
--- Biblioteca JCalendar
--- biblioteca javax.swing
--- Plugin WindowBuilder
+- `Java`
+- `Eclipse `
+- MySql
+- Biblioteca JCalendar
+- biblioteca javax.swing
+- Plugin WindowBuilder
 
 
 ## Desafio:
@@ -28,5 +27,5 @@
 6. Banco de dados para armazenar todos os dados solicitados anteriormente
 
 Para login 
-usurario - admin
-senha 123
+- `usurario - admin`
+- `senha 123`
